@@ -5,7 +5,7 @@ Serialize JavaScript to a _superset_ of JSON that includes regular expressions, 
 
 [![npm Version][npm-badge]][npm]
 [![Dependency Status][david-badge]][david]
-[![Build Status][travis-badge]][travis]
+[![Build Status][actions-badge]][actions]
 
 ## Overview
 
@@ -133,11 +133,11 @@ See the [LICENSE file][LICENSE] for license text and copyright information.
 
 
 [npm]: https://www.npmjs.org/package/serialize-javascript
-[npm-badge]: https://img.shields.io/npm/v/serialize-javascript.svg?style=flat-square
+[npm-badge]: https://img.shields.io/npm/v/serialize-javascript.svg
 [david]: https://david-dm.org/yahoo/serialize-javascript
-[david-badge]: https://img.shields.io/david/yahoo/serialize-javascript.svg?style=flat-square
-[travis]: https://travis-ci.org/yahoo/serialize-javascript
-[travis-badge]: https://img.shields.io/travis/yahoo/serialize-javascript.svg?style=flat-square
+[david-badge]: https://img.shields.io/david/yahoo/serialize-javascript.svg
+[actions]: https://github.com/yahoo/serialize-javascript/actions
+[actions-badge]: https://github.com/yahoo/serialize-javascript/workflows/CI/badge.svg
 [express-state]: https://github.com/yahoo/express-state
 [JSON.stringify]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
 [LICENSE]: https://github.com/yahoo/serialize-javascript/blob/master/LICENSE
